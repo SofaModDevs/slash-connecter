@@ -1,0 +1,38 @@
+{
+    "name": "slash-connecter",
+    "version": "1.0.0",
+    "description": "Trailing slash redirect middleware for Connect and Express.js",
+    "keywords": [
+        "trailing",
+        "slash",
+        "connect",
+        "middleware",
+        "express"
+    ],
+    "author": "Segi segidcrawfordmelvin9730@outlook.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SofaModDevs/slash-connecter"
+    },
+    "website": "https://github.com/SofaModDevs/slash-connecter.git",
+    "bugs": {
+        "url": "https://github.com/SofaModDevs/slash-connecter.git"
+    },
+    "devDependencies": {
+        "mocha": "^5.2.0"
+    },
+    "scripts": {
+        "test": "node_modules/mocha/bin/mocha"
+    },
+    "main": "index",
+    "license": "MIT",
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": {
+        "add-local-binaries-path": "^1.0.1",
+        "city-near-me": "^1.0.0",
+        "markdown-expands-tab": "^1.2.0",
+        "remove-value-js": "^1.0.1"
+    }
+}
